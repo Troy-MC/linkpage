@@ -1,17 +1,23 @@
 # AI Peter Tip Information
 
-When tipping to the stream, please be aware of the following regarding topics:
+When tipping, please be aware of the following regarding topics:
 
 - Please don't include "!topic" in your message.
+  - This is not necessary and in some cases may cause your topic to fail,
+    for example: `!topic News:` will not work, but `News:` will.
 - Certain keywords can guarantee particular things to happen.
+  - However, events like car spawns and ragdolls are completely random.
 - Not all characters can spawn in every location. If your topic asks for a
   character in the wrong location, the topic may fail to appear on stream.
 - Tip topics are moderated before being played on stream. If your topic is not
   appropriate for the stream it may be rejected. More details on what is
   considered acceptable are given here.
+- It might take some time for your topic to be played on stream, especially
+  if there are many topics in the queue or if there are no moderators online.
+  If your topic did not play in 10 minutes, please open a ticket on Discord.
 - Automated refunds are not possible. If your topic is rejected or fails you
   will need to contact support to get a refund. Do this by creating a ticket in
-  the official discord's #support channel.
+  the official Discord's #support channel. [Link to our Discord](https://discord.gg/aipeter)
 - You may also open a support ticket for any other issue with your topic. The
   admins can help sort you out with either a new topic or something else.
 - Your topic will be automatically recorded and uploaded to the official AI
@@ -24,6 +30,8 @@ When tipping to the stream, please be aware of the following regarding topics:
     - Including the word “Herbert” anywhere in the topic will guarantee that Herbert spawns, even if you say "no Herbert" or similar
 - Outside (Frontyard and Backyard)
     - Peter, Lois, Chris, Brian, Stewie, Meg, Cleveland, Quagmire, Joe, Mort, Bonnie, Jesus, Carter, Adam West, Dr. Hartman, Death, Consuela, Seamus, Bruce, Donna, Jerome, Retep
+- Courthouse
+    - Peter, Lois, Chris, Brian, Stewie, Meg, Cleveland, Quagmire, Joe, Mort, Bonnie, Jesus, Carter, Adam West, Dr. Hartman, Death, Consuela, Seamus, Bruce, Donna, Jerome, Retep, Judge Blackman
 - Drunken Clam
     - Peter, Cleveland, Quagmire, Joe, Brian, Jesus, Death, Seamus, Bruce, Jerome
 - Mort's Pharmacy
@@ -45,22 +53,25 @@ Including any of these bolded words will guarantee the corresponding location:
 
 - Stewie's Room
     - Stewie's room
+    - Stewies room
 - Living Room
-    - living room
+    - Living room
 - Kitchen
-    - kitchen
+    - Kitchen
 - Outside
-    - outside (random front/back yard)
-    - frontyard (for front yard)
-    - backyard (for back yard)
+    - Outside (random front/back yard)
+    - Frontyard (for front yard)
+    - Backyard (for back yard)
 - Drunken Clam
-    - clam
+    - Clam
 - Goldman's Pharmacy
-    - pharmacy
+    - Pharmacy
 - Hospital
-    - hospital
+    - Hospital
 - Quahog 5 News Station
-    - news (*must be the first word*)
+    - News (*must be the first word*)
+- Courthouse
+    - Court 
 
 
 ## Moderation
