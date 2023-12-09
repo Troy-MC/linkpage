@@ -9,6 +9,7 @@ When tipping, please be aware of the following regarding topics:
   - However, events like car spawns and ragdolls are completely random.
 - Not all characters can spawn in every location. If your topic asks for a
   character in the wrong location, the topic may fail to appear on stream.
+- If your topic asks for characters that don't exist, it may also fail.
 - Tip topics are moderated before being played on stream. If your topic is not
   appropriate for the stream it may be rejected. More details on what is
   considered acceptable are given here.
@@ -27,7 +28,7 @@ When tipping, please be aware of the following regarding topics:
 ## Characters and Locations
 
 - Herbert can spawn everywhere.
-    - Including the word “Herbert” anywhere in the topic will guarantee that Herbert spawns, even if you say "no Herbert" or similar
+    - Including the word “**Herbert**” anywhere in the topic will guarantee that Herbert spawns, even if you say "no Herbert" or similar
 - Outside (Frontyard and Backyard)
     - Peter, Lois, Chris, Brian, Stewie, Meg, Cleveland, Quagmire, Joe, Mort, Bonnie, Jesus, Carter, Adam West, Dr. Hartman, Death, Consuela, Seamus, Bruce, Donna, Jerome, Retep
 - Courthouse
@@ -52,26 +53,26 @@ When tipping, please be aware of the following regarding topics:
 Including any of these bolded words will guarantee the corresponding location:
 
 - Stewie's Room
-    - Stewie's room
-    - Stewies room
+    - **Stewie's room**
+    - **Stewies room**
 - Living Room
-    - Living room
+    - **Living room**
 - Kitchen
-    - Kitchen
+    - **Kitchen**
 - Outside
-    - Outside (random front/back yard)
-    - Frontyard (for front yard)
-    - Backyard (for back yard)
+    - **Outside** (random front/back yard)
+    - **Frontyard** (for front yard)
+    - **Backyard** (for back yard)
 - Drunken Clam
-    - Clam
+    - **Clam**
 - Goldman's Pharmacy
-    - Pharmacy
+    - **Pharmacy**
 - Hospital
-    - Hospital
+    - **Hospital**
 - Quahog 5 News Station
-    - News (*must be the first word*)
+    - **News** (*must be the first word*)
 - Courthouse
-    - Court 
+    - **Court** 
 
 
 ## Moderation
